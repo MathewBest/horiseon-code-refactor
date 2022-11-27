@@ -2,8 +2,10 @@
 
 ## Description
 
-This is a refactor of the Horiseon website to ....
+This is a refactor of the Horiseon website. This was done to improve SEO and accessibility of their website.
 
 ## Screenshot
+
+![Screenshot of Horiseon website](./assets/images/_D__user01_Code_bootcamp_horiseon-code-refactor_index.html.png)
 
 ## Link
