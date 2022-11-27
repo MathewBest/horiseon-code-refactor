@@ -69,13 +69,15 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* Changed content div to section element */
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+/* Changed benefits div to an aside element */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -86,6 +88,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Consolidated all repeating selectors */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -132,13 +135,16 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/* Changed footer from a div to footer element */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+/* Changed footer from h2 to h3 */
+/* Changed footer from a class */
+footer h3 {
     font-size: 20px;
 }
